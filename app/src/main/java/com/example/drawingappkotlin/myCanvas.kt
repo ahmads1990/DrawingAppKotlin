@@ -171,6 +171,6 @@ class myCanvas(context: Context?, attrs: AttributeSet?) :
         paint.color = Color.RED
         paint.strokeJoin = Paint.Join.ROUND
         paint.style = Paint.Style.STROKE
-        paint.strokeWidth = 5f
+        paint.strokeWidth = 10f
     }
 }
